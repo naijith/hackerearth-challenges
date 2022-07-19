@@ -16,7 +16,7 @@ the operations that the machine does are :
 
 '2' : remove all occurance of parameter value.
 
-'3' : XOR parameter value will all the elements in the array and sum and display.
+'3' : XOR parameter value will all the elements in the array and sum and display(array itself does not change).
 
 assumptions:
 - initally the array of the machine is empty[]
