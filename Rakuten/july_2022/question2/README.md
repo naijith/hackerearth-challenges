@@ -1,4 +1,4 @@
-#Question - 2
+# Question - 2
 
 Alice has a machine which stopped working, your job is to create a machine for alice which does the same operations.
 
