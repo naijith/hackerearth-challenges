@@ -26,7 +26,9 @@ assumptions:
 eg:
 input :
 3
+
 1 1 3
+
 4 5 6
 
 output: 
@@ -45,3 +47,17 @@ explaination:
 Hint for optimal solution :
 operation '2' remove all occurance of the parameter so any insert operation can be removed.
 
+eg:
+
+1 1 1 1 1 1 1 2 3
+
+4 5 5 5 5 5 5 5 6
+
+output: (4^6) = 2
+since all occurance of 5 is removed at the before '3'
+
+but there can also be case where operation '2' cannot be removed
+
+1 1 1 1 1 2 3 1 1 3
+
+4 5 6 6 4 5 7 8 9 1
